@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/WebRes-Front/static/css/main.bcf1907f.chunk.css",
+    "main.js": "/WebRes-Front/static/js/main.a1e2ee2d.chunk.js",
+    "main.js.map": "/WebRes-Front/static/js/main.a1e2ee2d.chunk.js.map",
+    "runtime-main.js": "/WebRes-Front/static/js/runtime-main.cc1fbf06.js",
+    "runtime-main.js.map": "/WebRes-Front/static/js/runtime-main.cc1fbf06.js.map",
+    "static/css/2.a8a3f4d8.chunk.css": "/WebRes-Front/static/css/2.a8a3f4d8.chunk.css",
+    "static/js/2.a1b6de1f.chunk.js": "/WebRes-Front/static/js/2.a1b6de1f.chunk.js",
+    "static/js/2.a1b6de1f.chunk.js.map": "/WebRes-Front/static/js/2.a1b6de1f.chunk.js.map",
+    "index.html": "/WebRes-Front/index.html",
+    "static/css/2.a8a3f4d8.chunk.css.map": "/WebRes-Front/static/css/2.a8a3f4d8.chunk.css.map",
+    "static/css/main.bcf1907f.chunk.css.map": "/WebRes-Front/static/css/main.bcf1907f.chunk.css.map",
+    "static/js/2.a1b6de1f.chunk.js.LICENSE.txt": "/WebRes-Front/static/js/2.a1b6de1f.chunk.js.LICENSE.txt",
+    "static/media/Group.3ade48e2.png": "/WebRes-Front/static/media/Group.3ade48e2.png",
+    "static/media/App.css": "/WebRes-Front/static/media/wpf_administrator.283ead64.svg",
+    "static/media/Usign-Gradients-Featured-Image.efc3db53.png": "/WebRes-Front/static/media/Usign-Gradients-Featured-Image.efc3db53.png",
+    "static/media/greg-banek-U7gWXwap7Kg-unsplash.44aefd98.jpg": "/WebRes-Front/static/media/greg-banek-U7gWXwap7Kg-unsplash.44aefd98.jpg",
+    "static/media/marek-piwnicki-piat4gc2CKo-unsplash.cdeda53e.jpg": "/WebRes-Front/static/media/marek-piwnicki-piat4gc2CKo-unsplash.cdeda53e.jpg",
+    "static/media/windows-QKuAz8zJRng-unsplash.2a74a996.jpg": "/WebRes-Front/static/media/windows-QKuAz8zJRng-unsplash.2a74a996.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cc1fbf06.js",
+    "static/css/2.a8a3f4d8.chunk.css",
+    "static/js/2.a1b6de1f.chunk.js",
+    "static/css/main.bcf1907f.chunk.css",
+    "static/js/main.a1e2ee2d.chunk.js"
+  ]
+}
